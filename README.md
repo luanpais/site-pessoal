@@ -10,7 +10,6 @@ Este projeto é um site pessoal responsivo que se adapta a diferentes dispositiv
 
 - **HTML**
 - **CSS**
-- **JavaScript**
 
 ## Funcionalidades
 
